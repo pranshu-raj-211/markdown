@@ -4,3 +4,13 @@
 ```python
   time='money'
 ```
+
+### Here's what I'm learning
+- [x] Python
+- [ ] Java
+- [ ] C++
+- [ ] C
+- [ ] Django
+- [ ] Machine Learning
+- [ ] Database management
+- [ ] Javascript
